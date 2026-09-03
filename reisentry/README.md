@@ -16,7 +16,7 @@ ReiSentry is an enterprise real estate investment governance and construction mi
 * **Project & Financial Milestones:** Scope of Work progress, draw requests, and disbursement records.
 
 ## 3. Data Storage & Security
-* **On-Device Storage:** Local data is saved within a secure, sandboxed AndroidX Room SQLite database.
+* **On-Device Storage:** Local data is saved within a secure, sandboxed AndroidX Room SQLite database with AES-256 encryption support.
 * **Cloud Infrastructure:** Remote sync is powered by encrypted TLS 1.3 connections to Supabase PostgreSQL with strict Row-Level Security (RLS) policies.
 
 ## 4. Account & Data Deletion
