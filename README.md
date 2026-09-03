@@ -6,15 +6,15 @@ Official hosted privacy policies and compliance documentation for applications p
 
 ## 📱 Applications & Policies Index
 
-| Application | Project Folder | Direct URL | Markdown Policy |
+| Application | Project Directory | Direct Policy URL | Markdown Format |
 | :--- | :--- | :--- | :--- |
 | **ReiSentry** | [`/reisentry/`](./reisentry/) | [View Policy](https://wintbit.github.io/privacy-policies/reisentry/) | [`reisentry.md`](./reisentry/README.md) |
-| **BrainMatch** | [`brainmatch.html`](./brainmatch.html) | [View Policy](https://wintbit.github.io/privacy-policies/brainmatch.html) | `N/A` |
-| **Little Brain Learners** | [`com.ejw.group.littlebrainlearners.html`](./com.ejw.group.littlebrainlearners.html) | [View Policy](https://wintbit.github.io/privacy-policies/com.ejw.group.littlebrainlearners.html) | `N/A` |
+| **BrainMatch** | [`/brainmatch/`](./brainmatch/) | [View Policy](https://wintbit.github.io/privacy-policies/brainmatch/) | [`brainmatch.md`](./brainmatch/README.md) |
+| **Little Brain Learners** | [`/littlebrainlearners/`](./littlebrainlearners/) | [View Policy](https://wintbit.github.io/privacy-policies/littlebrainlearners/) | [`littlebrainlearners.md`](./littlebrainlearners/README.md) |
 
 ---
 
 ## 🔒 Security & Data Rights
-To request account deletion or data export for any of the applications above, email [wintbit.dev@gmail.com](mailto:wintbit.dev@gmail.com) with the subject line *"Data Deletion Request"*.
+To request account deletion or data export for any application published by Wintbit Technologies, email [wintbit.dev@gmail.com](mailto:wintbit.dev@gmail.com) with the subject line *"Data Deletion Request"*.
 
 *© 2026 Wintbit Technologies. All rights reserved.*
