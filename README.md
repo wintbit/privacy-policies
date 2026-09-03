@@ -15,6 +15,6 @@ Official hosted privacy policies and compliance documentation for applications p
 ---
 
 ## 🔒 Governance & Contact
-For privacy inquiries or data deletion requests, contact [support@reilogic.com](mailto:support@reilogic.com).
+For privacy inquiries or data deletion requests, contact [support@wintbit.com](mailto:support@wintbit.com).
 
 *© 2026 Wintbit Technologies. All rights reserved.*
