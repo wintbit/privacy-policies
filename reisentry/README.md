@@ -20,10 +20,10 @@ ReiSentry is an enterprise real estate investment governance and construction mi
 * **Cloud Infrastructure:** Remote sync is powered by encrypted TLS 1.3 connections to Supabase PostgreSQL with strict Row-Level Security (RLS) policies.
 
 ## 4. Account & Data Deletion
-Users can request full deletion of their account and associated data by emailing **support@wintbit.com** with the subject *"Data Deletion Request"*.
+Users can request full deletion of their account and associated data by emailing **wintbit.dev@gmail.com** with the subject *"Data Deletion Request"*.
 
 ## 5. Contact Information
-* **Email:** `support@wintbit.com`
+* **Email:** `wintbit.dev@gmail.com`
 * **Repository:** [https://github.com/wintbit/privacy-policies](https://github.com/wintbit/privacy-policies)
 
 ---

@@ -15,6 +15,6 @@ Official hosted privacy policies and compliance documentation for applications p
 ---
 
 ## 🔒 Governance & Contact
-For privacy inquiries or data deletion requests, contact [support@wintbit.com](mailto:support@wintbit.com).
+For privacy inquiries or data deletion requests, contact [wintbit.dev@gmail.com](mailto:wintbit.dev@gmail.com).
 
 *© 2026 Wintbit Technologies. All rights reserved.*
