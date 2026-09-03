@@ -1,8 +1,7 @@
-# Privacy Policy for ReiSentry (Reilogic)
+# Privacy Policy for ReiSentry
 
 **Effective Date:** September 02, 2026  
 **Developer:** Wintbit Technologies  
-**Applicable Packages:** `com.wintbit.reilogic.android` (Android) / `com.wintbit.reilogic` (iOS)  
 **Hosted URL:** [https://wintbit.github.io/privacy-policies/reisentry/](https://wintbit.github.io/privacy-policies/reisentry/)
 
 ---
