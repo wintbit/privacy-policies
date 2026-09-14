@@ -38,8 +38,7 @@ In accordance with global privacy standards (GDPR, CCPA, and Apple App Store / G
 * **Immutable Finalized Artifacts:** Photographic receipts, drawing tickets, and agreement hashes finalized on decentralized IPFS or signed by peer consensus cannot be unilaterally altered from peer member ledgers
 * **Active Cycle Multi-Sig Commitment:** Members with active financial commitments in a locked Susu or syndicate cycle must exit in accordance with pool governance before records can be liquidated
 * **Strict 18+ Age Restriction:** The application is restricted to users aged 18 and older
-* **No Fiat Custody / No Real-Money Gambling:** PardnrLedger is an accounting and governance ledger
-* it does not hold custodial fiat funds or sell lottery tickets
+* **No Fiat Custody & No Real-Money Gambling:** PardnrLedger is an accounting and governance ledger, and does not hold custodial fiat funds or sell lottery tickets
 * **Rate Limiting & Anti-Bruteforce Safeguards:** The app enforces exponential cryptographic rate limiting (up to 7 days backoff) upon repeated invalid passcode attempts to protect sovereign vaults from unauthorized access
 
 ## 7. Children's Privacy
