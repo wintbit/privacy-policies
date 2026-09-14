@@ -1,6 +1,6 @@
 # Privacy Policy for ReiSentry
 
-**Effective Date:** September 02, 2026  
+**Effective Date:** September 14, 2026  
 **Developer:** Wintbit Technologies  
 **Hosted URL:** [https://wintbit.github.io/privacy-policies/reisentry/](https://wintbit.github.io/privacy-policies/reisentry/)
 
@@ -27,14 +27,26 @@ ReiSentry integrates strictly with trusted enterprise infrastructure providers:
 * **Supabase:** Encrypted PostgreSQL database hosting, authentication, and evidence storage
 * **Apple TestFlight:** Beta build distribution, crash analytics, and tester feedback
 
-## 5. Children's Privacy
+## 5. Account Deletion & Data Erasure Instructions
+In accordance with global privacy standards (GDPR, CCPA, and Apple App Store / Google Play requirements), users have the right to delete their account and wipe all stored data:
+
+* **In-App Immediate Account Deletion:** Open PardnrLedger, open the navigation menu to Profile / Settings, scroll down and tap 'Delete Account & Wipe Device Data', and confirm the warning prompt. This permanently and irrevocably purges all hardware keystore private keys, member profiles, local SQLite pool databases, and sandbox-cached ticket receipts from your device
+* **Email Deletion Request:** Send an email to support@pardnr.io (or wintbit.dev@gmail.com) with the subject line 'Data Deletion Request' including your registered email or cryptographic public key alias to purge any serverless license records or support communications within 30 days
+
+## 6. Operational Rules, Restrictions & Immutability
+* **Non-Custodial Data Sovereignty:** All cryptographic private keys and pool records reside locally on your device. If you wipe your device without exporting an encrypted .pardnr backup capsule or seed phrase, your local ledgers cannot be recovered by the developers or any third party
+* **Immutable Finalized Artifacts:** Photographic receipts, drawing tickets, and agreement hashes finalized on decentralized IPFS or signed by peer consensus cannot be unilaterally altered from peer member ledgers
+* **Active Cycle Multi-Sig Commitment:** Members with active financial commitments in a locked Susu or syndicate cycle must exit in accordance with pool governance before records can be liquidated
+* **Strict 18+ Age Restriction:** The application is restricted to users aged 18 and older
+* **No Fiat Custody / No Real-Money Gambling:** PardnrLedger is an accounting and governance ledger
+* it does not hold custodial fiat funds or sell lottery tickets
+* **Rate Limiting & Anti-Bruteforce Safeguards:** The app enforces exponential cryptographic rate limiting (up to 7 days backoff) upon repeated invalid passcode attempts to protect sovereign vaults from unauthorized access
+
+## 7. Children's Privacy
 ReiSentry is an enterprise B2B platform designed for construction professionals and real estate investors. It is not intended for use by individuals under the age of 18.
 
-## 6. Account & Data Deletion
-Users can request full deletion of their account and associated data by emailing **wintbit.dev@gmail.com** with the subject *"Data Deletion Request"*.
-
-## 7. Contact Information
-* **Email:** `wintbit.dev@gmail.com`
+## 8. Contact Information
+* **Email:** `support@pardnr.io`
 * **Privacy Hub:** [https://github.com/wintbit/privacy-policies](https://github.com/wintbit/privacy-policies)
 
 ---

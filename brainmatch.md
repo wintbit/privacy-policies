@@ -1,6 +1,6 @@
 # Privacy Policy for BrainMatch
 
-**Effective Date:** September 02, 2026  
+**Effective Date:** September 14, 2026  
 **Developer:** Wintbit Technologies  
 **Hosted URL:** [https://wintbit.github.io/privacy-policies/brainmatch/](https://wintbit.github.io/privacy-policies/brainmatch/)
 
@@ -25,14 +25,21 @@ BrainMatch integrates strictly with trusted enterprise infrastructure providers:
 * **Apple Game Center:** Optional leaderboards and achievement synchronization
 * **App Store:** Secure application updates and distribution
 
-## 5. Children's Privacy
+## 5. Account Deletion & Data Erasure Instructions
+In accordance with global privacy standards (GDPR, CCPA, and Apple App Store / Google Play requirements), users have the right to delete their account and wipe all stored data:
+
+* **In-App Immediate Account Deletion:** Open the application settings and tap 'Delete Account & Wipe Device Data' to immediately purge your profile and local storage
+* **Email Deletion Request:** Send an email to support@pardnr.io with the subject line 'Data Deletion Request' to process remote account erasure within 30 days
+
+## 6. Operational Rules, Restrictions & Immutability
+* **Non-Custodial Architecture:** All cryptographic keys and ledger entries reside locally on your device. Wiping local data is irreversible without an exported backup
+* **Legal & Compliance Retention:** Anonymized transactional hashes may be retained where required by applicable regulations
+
+## 7. Children's Privacy
 BrainMatch complies with the Children's Online Privacy Protection Act (COPPA). We do not collect, store, or share any personal identifying information from children under 13.
 
-## 6. Account & Data Deletion
-Users can request full deletion of their account and associated data by emailing **wintbit.dev@gmail.com** with the subject *"Data Deletion Request"*.
-
-## 7. Contact Information
-* **Email:** `wintbit.dev@gmail.com`
+## 8. Contact Information
+* **Email:** `support@pardnr.io`
 * **Privacy Hub:** [https://github.com/wintbit/privacy-policies](https://github.com/wintbit/privacy-policies)
 
 ---
