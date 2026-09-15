@@ -1,6 +1,6 @@
 # Privacy Policy for PardnrLedger
 
-**Effective Date:** September 14, 2026  
+**Effective Date:** September 15, 2026  
 **Developer:** Wintbit Technologies  
 **Hosted URL:** [https://wintbit.github.io/privacy-policies/pardnrledger/](https://wintbit.github.io/privacy-policies/pardnrledger/)
 
@@ -12,8 +12,9 @@ PardnrLedger is a cryptographic communal finance management, lottery syndicate g
 ## 2. Information We Collect
 To provide reliable functionality for syndicate managers, communal savings participants, and pool members, PardnrLedger collects and processes:
 
-* **Device Identifiers & Public Keys:** Cryptographic public keys generated in hardware keystores (Android Keystore / iOS Secure Enclave) for transaction signing and account identity
+* **Device Identifiers & Public Keys:** Cryptographic public keys generated in hardware keystores (Android Keystore / iOS Secure Enclave) for transaction signing and sovereign account identity
 * **Camera & Photo Gallery:** Used exclusively for scanning member invitation QR codes and uploading drawing ticket/settlement evidence receipts
+* **Non-Biometric Selfie Images:** Identity verification photos are stored strictly as static visual image files and SHA-256 hashes without biometric facial geometry or algorithmic face-scans (Illinois BIPA 740 ILCS 14/ compliant)
 * **Local Encrypted Ledger & Transaction History:** Pool configurations, member contribution records, and payout distributions stored in local encrypted databases
 * **Off-Chain Artifact Metadata:** IPFS Content Identifiers (CIDs) and SHA-256 cryptographic hashes for tamper-evident ticket auditing
 
@@ -39,7 +40,8 @@ In accordance with global privacy standards (GDPR, CCPA, and Apple App Store / G
 * **Immutable Finalized Artifacts:** Photographic receipts, drawing tickets, and agreement hashes finalized on decentralized IPFS or signed by peer consensus cannot be unilaterally altered from peer member ledgers
 * **Active Cycle Multi-Sig Commitment:** Members with active financial commitments in a locked Susu or syndicate cycle must exit in accordance with pool governance before records can be liquidated
 * **Strict 18+ Age Restriction:** The application is restricted to users aged 18 and older
-* **No Fiat Custody & No Real-Money Gambling:** PardnrLedger is an accounting and governance ledger, and does not hold custodial fiat funds or sell lottery tickets
+* **No Fiat Custody & No Real-Money Gambling:** PardnrLedger is strictly non-custodial accounting software (FinCEN 31 C.F.R. § 1010.100(ff) exempt) and is not a lottery courier or gambling operator
+* **No Personal Developer Liability:** To the maximum extent permitted by applicable law, developers, founders, and operators of Wintbit Technologies are held harmless from any claims or disputes arising from pool participation
 * **Rate Limiting & Anti-Bruteforce Safeguards:** The app enforces exponential cryptographic rate limiting (up to 7 days backoff) upon repeated invalid passcode attempts to protect sovereign vaults from unauthorized access
 
 ## 7. Children's Privacy
