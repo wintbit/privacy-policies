@@ -137,7 +137,7 @@
     <header>
         <span class="badge">Decentralized Communal Finance & Lottery Pool Ledger</span>
         <h1>PardnrLedger Privacy Policy</h1>
-        <p class="last-updated">Effective Date: September 15, 2026</p>
+        <p class="last-updated">Effective Date: September 19, 2026</p>
     </header>
 
     <p>This Privacy Policy describes how <strong>PardnrLedger</strong> ("we", "our", or "the App") collects, uses, stores, and protects information when you interact with our applications and services.</p>
@@ -149,9 +149,8 @@
     <h2>1. Information We Collect</h2>
     <p>To provide reliable and secure functionality for syndicate managers, communal savings participants, and pool members, PardnrLedger collects and processes the following information:</p>
     <ul>
-        <li><strong>Device Identifiers & Public Keys:</strong> Cryptographic public keys generated in hardware keystores (Android Keystore / iOS Secure Enclave) for transaction signing and sovereign account identity</li>
+        <li><strong>Device Identifiers & Public Keys:</strong> Cryptographic public keys generated in hardware keystores (Android Keystore / iOS Secure Enclave) for transaction signing and account identity</li>
         <li><strong>Camera & Photo Gallery:</strong> Used exclusively for scanning member invitation QR codes and uploading drawing ticket/settlement evidence receipts</li>
-        <li><strong>Non-Biometric Selfie Images:</strong> Identity verification photos are stored strictly as static visual image files and SHA-256 hashes without biometric facial geometry or algorithmic face-scans (Illinois BIPA 740 ILCS 14/ compliant)</li>
         <li><strong>Local Encrypted Ledger & Transaction History:</strong> Pool configurations, member contribution records, and payout distributions stored in local encrypted databases</li>
         <li><strong>Off-Chain Artifact Metadata:</strong> IPFS Content Identifiers (CIDs) and SHA-256 cryptographic hashes for tamper-evident ticket auditing</li>
     </ul>
@@ -171,9 +170,10 @@
     <h2>4. Third-Party Services &amp; Infrastructure</h2>
     <p>PardnrLedger integrates strictly with trusted enterprise infrastructure providers necessary for app delivery:</p>
     <ul>
+        <li><strong>XRPL (XRP Ledger):</strong> Public decentralized ledger for cryptographic anchoring and multi-sig escrow verification</li>
         <li><strong>IPFS (Pinata):</strong> Decentralized encrypted artifact and evidence pinning</li>
         <li><strong>Cloudflare Workers & Stripe:</strong> Serverless backend for optional Host Pro and Enterprise license verification</li>
-        <li><strong>Apple App Store & Google Play:</strong> Application distribution and secure platform updates</li>
+        <li><strong>Apple TestFlight & Google Play:</strong> Beta testing and application distribution</li>
     </ul>
     <p>We do not sell, rent, or lease personal information to third-party data brokers or marketing networks.</p>
 
@@ -183,21 +183,18 @@
     <div class="info-card">
         <strong>🗑️ Step-by-Step Account Deletion:</strong>
         <ul>
-        <li><strong>In-App Immediate Account Deletion:</strong> Open PardnrLedger, open the navigation menu to Profile / Settings, scroll down and tap 'Delete Account & Wipe Device Data', and confirm the warning prompt. This permanently and irrevocably purges all hardware keystore private keys, member profiles, local SQLite pool databases, and sandbox-cached ticket receipts from your device</li>
-        <li><strong>Email Deletion Request:</strong> Send an email to support@pardnr.io (or wintbit.dev@gmail.com) with the subject line 'Data Deletion Request' including your registered email or cryptographic public key alias to purge any serverless license records or support communications within 30 days</li>
+        <li><strong>Local Vault Wipe:</strong> Reset your local application state or uninstall the app to instantly destroy your local cryptographic keypairs and transaction cache</li>
+        <li><strong>Off-Chain Purge:</strong> Email wintbit.dev@gmail.com to delete auxiliary support records and license metadata</li>
+        <li><strong>Ledger Immutability Disclosure:</strong> Public cryptographic ledger entries previously broadcast to XRPL or IPFS cannot be modified or deleted due to decentralized blockchain immutability</li>
         </ul>
     </div>
 
     <h2>6. Operational Rules, Restrictions &amp; Immutability</h2>
     <p>Please note the following operational policies, restrictions, and architectural disclosures governing data handling in PardnrLedger:</p>
     <ul>
-        <li><strong>Non-Custodial Data Sovereignty:</strong> All cryptographic private keys and pool records reside locally on your device. If you wipe your device without exporting an encrypted .pardnr backup capsule or seed phrase, your local ledgers cannot be recovered by the developers or any third party</li>
-        <li><strong>Immutable Finalized Artifacts:</strong> Photographic receipts, drawing tickets, and agreement hashes finalized on decentralized IPFS or signed by peer consensus cannot be unilaterally altered from peer member ledgers</li>
-        <li><strong>Active Cycle Multi-Sig Commitment:</strong> Members with active financial commitments in a locked Susu or syndicate cycle must exit in accordance with pool governance before records can be liquidated</li>
-        <li><strong>Strict 18+ Age Restriction:</strong> The application is restricted to users aged 18 and older</li>
-        <li><strong>No Fiat Custody & No Real-Money Gambling:</strong> PardnrLedger is strictly non-custodial accounting software (FinCEN 31 C.F.R. § 1010.100(ff) exempt) and is not a lottery courier or gambling operator</li>
-        <li><strong>No Personal Developer Liability:</strong> To the maximum extent permitted by applicable law, developers, founders, and operators of Wintbit Technologies are held harmless from any claims or disputes arising from pool participation</li>
-        <li><strong>Rate Limiting & Anti-Bruteforce Safeguards:</strong> The app enforces exponential cryptographic rate limiting (up to 7 days backoff) upon repeated invalid passcode attempts to protect sovereign vaults from unauthorized access</li>
+        <li><strong>Decentralized Immutability:</strong> Transactions and cryptographic proofs committed to public decentralized networks (XRPL / IPFS) are permanent and mathematically immutable</li>
+        <li><strong>Non-Custodial Architecture:</strong> We never possess or store your private cryptographic keys</li>
+        <li><strong>Zero Cross-App Tracking:</strong> We do not employ third-party advertising identifiers or behavioral trackers</li>
     </ul>
 
     <h2>7. Children's Privacy</h2>
@@ -210,7 +207,7 @@
         <h3>Contact Us</h3>
         <p>If you have any questions, inquiries, or privacy feedback regarding PardnrLedger, please contact our team at:</p>
         <p>
-            <strong>Email:</strong> <a href="mailto:support@pardnr.io">support@pardnr.io</a><br>
+            <strong>Email:</strong> <a href="mailto:wintbit.dev@gmail.com">wintbit.dev@gmail.com</a><br>
             <strong>Developer:</strong> Wintbit Technologies<br>
             <strong>Privacy Hub:</strong> <a href="https://github.com/wintbit/privacy-policies" target="_blank">https://github.com/wintbit/privacy-policies</a>
         </p>

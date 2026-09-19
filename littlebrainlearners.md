@@ -12,8 +12,8 @@ Little Brain Learners is an early childhood learning and foundational literacy a
 ## 2. Information We Collect
 To provide reliable functionality for young learners, parents, and educators, Little Brain Learners collects and processes:
 
-* **Educational Progress:** Offline lesson completion records and child learning milestone metrics stored strictly on-device
-* **Parental Settings:** Local PIN protection and settings preferences
+* **Educational Progress:** Offline lesson completion records, shape/color mastery, and learning milestone metrics stored strictly on-device
+* **Parental Settings:** Local parental gate PIN protection and audio settings preferences stored locally
 
 ## 3. Data Storage & Security
 * **On-Device Storage:** Local data is saved securely within sandboxed application storage.
@@ -22,18 +22,24 @@ To provide reliable functionality for young learners, parents, and educators, Li
 ## 4. Third-Party Services
 Little Brain Learners integrates strictly with trusted enterprise infrastructure providers:
 
-* **App Store:** Application distribution and secure family-sharing downloads
+* **Apple App Store & Google Play Store:** Application distribution and family-sharing services
 
 ## 5. Account Deletion & Data Erasure Instructions
 In accordance with global privacy standards (GDPR, CCPA, and Apple App Store / Google Play requirements), users have the right to delete their account and wipe all stored data:
 
-{{ACCOUNT_DELETION_MD}}
+* **No Account Registration Required:** Little Brain Learners does not require user accounts, email registration, or passwords
+* **On-Device Progress Wipe:** You can clear all learning milestone records, game scores, and settings at any time by clearing application data in device Settings or uninstalling the app
+* **Instant Erasure:** Because all data is stored strictly on-device in sandboxed storage, removing the app permanently erases 100% of stored records immediately
+* **Support Correspondence Erasure:** If you have contacted our support team, you may email wintbit.dev@gmail.com with the subject line 'Data Deletion Request' to delete your support communication records
 
 ## 6. Operational Rules, Restrictions & Immutability
-{{DATA_RESTRICTIONS_MD}}
+* **Zero Advertising & Behavioral Tracking:** No advertising SDKs, behavioral analytics, or third-party trackers are integrated
+* **No Third-Party Data Sharing:** We do not sell, rent, monetize, or transfer any user or child data to third parties
+* **Fully Offline Operation:** All learning modules and memory games run completely on-device without requiring internet access or cloud synchronization
+* **Safe Parental Gate:** External links and settings adjustments are secured behind a parental gate to protect young learners
 
 ## 7. Children's Privacy
-Little Brain Learners is designed for early learners and strictly adheres to the Children's Online Privacy Protection Act (COPPA). We do not collect, transmit, or monetize any personal information from children.
+Little Brain Learners is designed for early learners and strictly adheres to the Children's Online Privacy Protection Act (COPPA), GDPR-K, and Apple App Store / Google Play Families policies. We do not collect, transmit, share, or monetize any personal information from children.
 
 ## 8. Contact Information
 * **Email:** `wintbit.dev@gmail.com`

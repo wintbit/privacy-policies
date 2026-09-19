@@ -1,6 +1,6 @@
 # Privacy Policy for BrainMatch
 
-**Effective Date:** September 14, 2026  
+**Effective Date:** September 19, 2026  
 **Developer:** Wintbit Technologies  
 **Hosted URL:** [https://wintbit.github.io/privacy-policies/brainmatch/](https://wintbit.github.io/privacy-policies/brainmatch/)
 
@@ -28,18 +28,20 @@ BrainMatch integrates strictly with trusted enterprise infrastructure providers:
 ## 5. Account Deletion & Data Erasure Instructions
 In accordance with global privacy standards (GDPR, CCPA, and Apple App Store / Google Play requirements), users have the right to delete their account and wipe all stored data:
 
-* **In-App Immediate Account Deletion:** Open the application settings and tap 'Delete Account & Wipe Device Data' to immediately purge your profile and local storage
-* **Email Deletion Request:** Send an email to support@pardnr.io with the subject line 'Data Deletion Request' to process remote account erasure within 30 days
+* **Local Progress Reset:** Clear local memory game progress, best times, and achievements by clearing application storage or uninstalling the app
+* **Game Center Management:** Optional Apple Game Center scores can be managed directly in your Apple ID Game Center profile settings
+* **Support Correspondence Erasure:** Email wintbit.dev@gmail.com with subject 'Data Deletion Request' to purge any email support inquiries
 
 ## 6. Operational Rules, Restrictions & Immutability
-* **Non-Custodial Architecture:** All cryptographic keys and ledger entries reside locally on your device. Wiping local data is irreversible without an exported backup
-* **Legal & Compliance Retention:** Anonymized transactional hashes may be retained where required by applicable regulations
+* **No Behavioral Tracking:** We do not track player activities across third-party apps or websites
+* **Zero Data Brokerage:** We never sell or monetize user data
+* **On-Device Gameplay:** Game logic and memory puzzles run completely locally on your device
 
 ## 7. Children's Privacy
 BrainMatch complies with the Children's Online Privacy Protection Act (COPPA). We do not collect, store, or share any personal identifying information from children under 13.
 
 ## 8. Contact Information
-* **Email:** `support@pardnr.io`
+* **Email:** `wintbit.dev@gmail.com`
 * **Privacy Hub:** [https://github.com/wintbit/privacy-policies](https://github.com/wintbit/privacy-policies)
 
 ---
