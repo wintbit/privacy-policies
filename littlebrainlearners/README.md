@@ -15,8 +15,8 @@ To provide reliable functionality for young learners, parents, and educators, Li
 * **Educational & Gameplay Progress:** Offline lesson completion records, shape/color/word accuracy, memory puzzle times, achievement stars, and daily streaks stored strictly in local device storage
 * **Parental Settings & Accessibility:** Sound volume controls, TTS speech toggles, visual hints, high-contrast mode, screen time limits, and parental gate preferences stored locally
 * **Custom Family Memory Decks (Optional):** Family member names, relations, and local photos chosen by parents for personalized memory cards, stored exclusively in local sandboxed storage
-* **Camera & Photo Library Access:** Camera used strictly for scanning peer-to-peer settings sync QR codes (no frames recorded or uploaded)
-* Photo Library used solely for parent-selected family card avatars
+* **Camera Access (Settings Sync):** Camera used strictly for scanning peer-to-peer settings sync QR codes (no frames recorded or uploaded)
+* **Photo Library Access:** Used solely for parent-selected family card avatars
 * **In-App Purchases (Billing):** Entitlement token verification processed directly through Apple StoreKit and Google Play Billing for the one-time Full Version Unlock (no financial data accessed or stored)
 
 ## 3. Data Storage & Security
